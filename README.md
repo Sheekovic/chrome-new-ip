@@ -20,8 +20,8 @@ This Python script fetches proxies from the ProxyScrape API and uses a randomly 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chrome-proxy-browser.git
-   cd chrome-proxy-browser
+   git clone https://github.com/Sheekovic/chrome-new-ip.git
+   cd chrome-new-ip
 
 2. Install the required Python libraries:
    ```bash
@@ -33,7 +33,7 @@ This Python script fetches proxies from the ProxyScrape API and uses a randomly 
 
 1. Run the script:
    ```bash
-   python proxy_browser.py
+   python proxy.py
    ```
 
 2. The script will fetch proxies, select a random one, and open Chrome with the selected proxy.
